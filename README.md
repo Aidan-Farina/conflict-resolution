@@ -1,3 +1,3 @@
 # conflict-resolution
 
-creating a conflict on purpose
+this is going to create a conflict for sure
